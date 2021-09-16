@@ -1,0 +1,5 @@
+id,MakerModel,Year,Color,Mileage
+1,Kia,ecg,1999,black,4500
+2,Kia,ju,2001,pink,2400
+3,Honda,ep,9000,blue,1000
+4,Mercedes,efg,1999,yellow,3400

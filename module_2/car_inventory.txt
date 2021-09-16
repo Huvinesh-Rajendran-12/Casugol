@@ -1,0 +1,3 @@
+id,MakerModel,Year,Color,Mileage
+1,Honda,civic,1999,pink,4500
+2,Mercedes,efg,2000,black,3000
